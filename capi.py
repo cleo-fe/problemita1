@@ -3,10 +3,6 @@
 
 print("Bienvenido")
 print()
-print("Este programa dira si el numero ingresado es capicua o no")
-print()
-
-n = int(input("Por favor ingrese un numero: "))
 =======
 print("Programa para saber si un numero es o no capicua")
 print()
