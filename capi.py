@@ -9,3 +9,4 @@ if(s==k):
     print("Es capicua ");
 else:
     print("No es capicua ")
+# holuuuuu muchachones !!
