@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Proyecto GitHub para windows
 
 print("Bienvenido")
@@ -6,6 +7,12 @@ print("Este programa dira si el numero ingresado es capicua o no")
 print()
 
 n = int(input("Por favor ingrese un numero: "))
+=======
+print("Programa para saber si un numero es o no capicua")
+print()
+n = int(input("Ingrese un numero: "))
+print()
+>>>>>>> origin/master
 s=0
 k=n;
 
