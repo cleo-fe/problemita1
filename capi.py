@@ -1,4 +1,3 @@
-#Programa que dira si un numero es capicua o no
 #Proyecto GitHub para windows
 
 print("Bienvenido")
@@ -20,9 +19,5 @@ if(s==k):
     
 else:
     print("El numero ingresado no es capicua ")
-
-print()
-print("Hasta Luego")
-print()
 
 #Fin del programa
