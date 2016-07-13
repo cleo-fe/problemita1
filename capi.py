@@ -1,4 +1,7 @@
+print("Programa para saber si un numero es o no capicua")
+print()
 n = int(input("Ingrese un numero: "))
+print()
 s=0
 k=n;
 while(n!=0):
