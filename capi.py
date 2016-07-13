@@ -10,3 +10,4 @@ if(s==k):
 else:
     print("No es capicua ")
 # holuuuuu muchachones !!
+#1.2.2.
